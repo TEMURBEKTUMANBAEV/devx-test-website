@@ -1,2 +1,2 @@
 # devx-test-website
-iij
+System.out.println("Hello world!");
